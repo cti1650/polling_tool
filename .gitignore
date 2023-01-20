@@ -1,0 +1,5 @@
+node_modules
+*-linux
+*-macos
+*-win.exe
+src/config.js

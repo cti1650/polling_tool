@@ -1,0 +1,16 @@
+{
+  "name": "polling_tool",
+  "version": "0.0.1",
+  "main": "src/main.js",
+  "license": "MIT",
+  "scripts": {
+    "init:config": "cp src/config_sample.js src/config.js",
+    "start": "node src/main.js",
+    "build": "pkg src/main.js"
+  },
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "net": "^1.0.2",
+    "pkg": "^5.8.0"
+  }
+}
