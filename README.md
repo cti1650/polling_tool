@@ -6,6 +6,11 @@
 npm install -g pkg
 ```
 
+## 実行に必要なパッケージをローカルにインストール
+```
+yarn install
+```
+
 ## 初期設定（サンプルconfigを複製）
 
 ```
